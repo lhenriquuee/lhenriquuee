@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá, sou o Luís Henrique :man_technologist: !	
 
-<!--
-**lhenriquuee/lhenriquuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo a mais de 10 anos na área de Tecnologia da Informação, com experiência em Suporte para as áreas de Infraestrutura e Sistemas para usuários finais e colaboradores das organizações, tenho facilidade em definir soluções para os problemas reportados. 
 
-Here are some ideas to get you started:
+No ano de 2021, fiz a transição para área de Technical Writing atuando com a "Gestão do Conhecimento" para usuários, entre essas atividades elaborando: 
+- Documentações sobre produtos
+- Tutoriais
+- Centrais de Ajuda
+- FAQ's 
+- Release Notes
+- Documentações Técnicas para times de Desenvolvimento e Suporte
+- Entre outros tipos de documentações, com intuito de expandir o conhecimento para diversos públicos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em 2022, tive a oportunidade de palestrar no MeetUp interno da empresa sobre "O Valor da documentação Técnica para os produtos", para falar sobre a importância da área de Technical Writing e como é funciona o fluxo para a Documentação de Sistemas. 
+
+Por conta da minha experiência nessas áreas, tenho um bom relacionamento com demais áreas da organização, para coletar insumos necessários para a elaboração de documentos e outros conteúdos para auxiliar no entendimento de produtos desenvolvidos pela organização.
+
+Fique á vontade para entrar em contato comigo. 
+- :telephone_receiver: +55 (13) 97415-0465 
+- :e-mail: lhen_rique@hotmail.com 
+- :link:	 https://www.linkedin.com/in/luis-henrique-miranda/ 
