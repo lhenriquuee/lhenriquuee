@@ -1,6 +1,6 @@
 ## Olá, sou o Luís Henrique :man_technologist: !	
 
-Atuo a mais de 10 anos na área de Tecnologia da Informação, com experiência em Suporte de Infraestrutura e Sistemas para usuários finais e colaboradores das organizações, tenho facilidade em definir soluções para os problemas reportados. 
+Atuo a mais de 10 anos na área de Tecnologia da Informação, com experiência em Suporte de Infraestrutura e Sistemas para usuários finais e colaboradores das organizações, tenho facilidade em definir soluções para os problemas reportados e em relacionamento interpessoal.  
 
 No ano de 2021, fiz a transição para área de Technical Writing atuando com a "Gestão do Conhecimento" para usuários, entre essas atividades elaborando: 
 - Documentações sobre produtos
