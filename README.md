@@ -15,7 +15,7 @@ Em 2022, tive a oportunidade de palestrar no MeetUp interno da empresa sobre "O 
 
 Por conta da minha experiência nessas áreas, tenho um bom relacionamento com demais áreas da organização, para coletar insumos necessários para a elaboração de documentos e outros conteúdos para auxiliar no entendimento de produtos desenvolvidos pela organização.
 
-Fique á vontade para entrar em contato comigo. 
+## 💬 Vamos conversar! 
 - :telephone_receiver: +55 (13) 97415-0465 
 - :e-mail: lhen_rique@hotmail.com 
 - :link:	 https://www.linkedin.com/in/luis-henrique-miranda/ 
