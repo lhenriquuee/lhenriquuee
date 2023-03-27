@@ -2,6 +2,7 @@
 * 👨 [Sobre mim](https://github.com/lhenriquuee/lhenriquuee/edit/main/README.md#sobre-mim)
 * 💼 [Experiências Profissionais](https://github.com/lhenriquuee/Carreira-Profissional#experi%C3%AAncias-profissionais-)
 * 👨‍🎓 [Formação e Cursos](https://github.com/lhenriquuee/estudos#man_studentforma%C3%A7%C3%A3o)
+* 📝 [Alguns dos meus trabalhos](https://github.com/lhenriquuee/Cases)
 * 💬 [Vamos Conversar!](https://github.com/lhenriquuee#-vamos-conversar)
 
 
