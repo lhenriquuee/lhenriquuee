@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-br.md)
+
 # Olá, sou o Luís Henrique ! ☕
 * 👨 [Sobre mim](https://github.com/lhenriquuee/lhenriquuee/edit/main/README.md#sobre-mim)
 * 💼 [Experiências Profissionais](https://github.com/lhenriquuee/Carreira-Profissional#experi%C3%AAncias-profissionais-)
